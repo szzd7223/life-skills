@@ -4,3 +4,4 @@
 1. **Technical Communication**:
 Problem Statement: Create a report on Service Oriented Architecture (SOA)
 submission: [soa_report.md](soa_report.md)
+2. **Learning Process**: [learning_process.md](learning_process.md)

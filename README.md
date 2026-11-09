@@ -5,3 +5,4 @@
 Problem Statement: Create a report on Service Oriented Architecture (SOA)
 submission: [soa_report.md](soa_report.md)
 2. **Learning Process**: [learning_process.md](learning_process.md)
+3. **Listening and Active Communication**: [listening_and_active_communication.md](listening_and_active_communication.md)
